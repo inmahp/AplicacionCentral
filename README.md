@@ -1,1 +1,1 @@
-# AplicacionCentralSSH
+# AplicacionCentral
